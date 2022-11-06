@@ -10,10 +10,10 @@ global.antitags = true
 global.Owner = ['918101187835']
 global.OwnerNumber = ['918101187835']
 global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.BotName = "Dalmas Personal Assistant"
+global.packname = "Serenity bot"
+global.author = "By: Dalmas"
+global.OwnerName = "Dalmas"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
@@ -59,14 +59,14 @@ global.ntilink = []
 
 global.mess = {
     jobdone: 'Job done...',
-    useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
+    useradmin: 'Sorry, only *Group Admins* can use this command *okay*!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
-    grouponly: 'This command is only made for *Groups*, Baka!',
-    privateonly: 'This command is only made for *Private Chat*, Baka!',
+    botowner: 'Only my *Owner* Mr Serenity can use this command, please!',
+    grouponly: 'This command is only made for *Groups*, please!',
+    privateonly: 'This command is only made for *Private Chat*, please!',
     botonly: 'Only the *Bot itself* can use this command!',
-    waiting: 'Chotto Matte...',
-    nolink: 'Please provide me *link*, Baka!',
+    waiting: 'Please wait...',
+    nolink: 'Please provide me *link* !',
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!',
     bangc: 'This Group is *Banned* from using Commands!',
